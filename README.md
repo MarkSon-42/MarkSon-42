@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/AWS_S3-324253?style=for-the-badge&logo=amazons3&logoColor=green)
 ![](https://img.shields.io/badge/AWS_RDS-324253?style=for-the-badge&logo=amazonrds&logoColor=dodgerblue)
 ![](https://img.shields.io/badge/AWS_EKS-324253?style=for-the-badge&logo=amazoneks&logoColor=oragne)
-![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=amazonelb&logoColor=white)
+![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
 ![](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 
