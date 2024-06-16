@@ -28,7 +28,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/AWS_RDS-324253?style=for-the-badge&logo=amazonrds&logoColor=dodgerblue)
 ![](https://img.shields.io/badge/AWS_EKS-324253?style=for-the-badge&logo=amazoneks&logoColor=oragne)
 ![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
-![](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![](https://img.shields.io/badge/Confluence-FEFEFE?style=for-the-badge&logo=confluence&logoColor=royalblue)
+![](https://img.shields.io/badge/Jira-FEFEFE?style=for-the-badge&logo=jira&logoColor=royalblue)
+
+🔭 I’m currently working on ...
+![](https://img.shields.io/badge/Git-FEFEFE?style=for-the-badge&logo=git&logoColor=tomato)
+![](https://img.shields.io/badge/Confluence-FEFEFE?style=for-the-badge&logo=confluence&logoColor=royalblue)
+![](https://img.shields.io/badge/Jira-FEFEFE?style=for-the-badge&logo=jira&logoColor=royalblue)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minnow)](https://solved.ac/minnow/)
