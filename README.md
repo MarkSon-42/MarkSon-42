@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Rust-008B8B?style=for-the-badge&logo=rust&logoColor=darkorange)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/AWS_Lambda-324253?style=for-the-badge&logo=awslambda&logoColor=oragne)
+![](https://img.shields.io/badge/AWS_S3-324253?style=for-the-badge&logo=amazons3&logoColor=oragne)
+![](https://img.shields.io/badge/AWS_RDS-324253?style=for-the-badge&logo=awsrds&logoColor=oragne)
+![](https://img.shields.io/badge/AWS_EKS-324253?style=for-the-badge&logo=awseks&logoColor=oragne)
+![](https://img.shields.io/badge/AWS_ELB-#8C4FFF?style=for-the-badge&logo=awselb&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minnow)](https://solved.ac/minnow/)
 
