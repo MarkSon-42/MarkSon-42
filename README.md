@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ...  
+
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +31,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
 
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on ...  
+
 ![](https://img.shields.io/badge/Git-FEFEFE?style=for-the-badge&logo=git&logoColor=tomato)
 ![](https://img.shields.io/badge/Confluence-FEFEFE?style=for-the-badge&logo=confluence&logoColor=royalblue)
 ![](https://img.shields.io/badge/Jira-FEFEFE?style=for-the-badge&logo=jira&logoColor=royalblue)
