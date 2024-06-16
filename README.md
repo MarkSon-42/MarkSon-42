@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Rust-383677?style=for-the-badge&logo=rust&logoColor=#2349946)
+![](https://img.shields.io/badge/Rust-008B8B?style=for-the-badge&logo=rust&logoColor=darkorange)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/AWS_Lambda-324253?style=for-the-badge&logo=awslambda&logoColor=oragne)
 
