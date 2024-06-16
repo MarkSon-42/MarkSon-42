@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=lambda&logoColor=oragne)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minnow)](https://solved.ac/minnow/)
 
