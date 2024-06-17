@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minnow)](https://solved.ac/minnow/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkSon-42)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/MarkSon-42/github-readme-stats">
