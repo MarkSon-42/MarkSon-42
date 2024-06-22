@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 📚 Education
 
-- SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ ) 
-
-- 🔗  ![](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 
+- SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ )  :  [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
 💻 I’m currently learning ...  
 
