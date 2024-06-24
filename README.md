@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-📚 Education
+📚 Education  
+
 ![image](https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b)  
 
 - SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ )  :  [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
