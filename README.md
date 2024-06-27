@@ -24,13 +24,10 @@ Here are some ideas to get you started:
 - NIPA-AWS Developer BootCamp (2024.05.20~2024.06.23)
 
 💻 I’m currently learning ...  
-
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=Black)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Rust-008B8B?style=for-the-badge&logo=rust&logoColor=darkorange)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/AWS_Lambda-324253?style=for-the-badge&logo=awslambda&logoColor=oragne)
 ![](https://img.shields.io/badge/AWS_S3-324253?style=for-the-badge&logo=amazons3&logoColor=green)
 ![](https://img.shields.io/badge/AWS_RDS-324253?style=for-the-badge&logo=amazonrds&logoColor=dodgerblue)
