@@ -12,6 +12,7 @@ Here are some ideas to get you started:  -->
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50" height="50" alt="LinkedIn">
 </a>  
 
+---
 
 📚 Education  
 
