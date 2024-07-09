@@ -14,6 +14,15 @@ Here are some ideas to get you started:  -->
 
 ---
 
+#### MY Resume  
+
+
+You can check out my CV [here](https://fast-poet-96b.notion.site/Minwoo-Son-CV-08af486b2e99434cb975315869533b65).
+
+
+
+---
+
 📚 Education  
 
 ![image](https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b)  
