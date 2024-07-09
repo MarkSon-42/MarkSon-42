@@ -14,7 +14,7 @@ Here are some ideas to get you started:  -->
 
 ---
 
-#### MY Resume  
+#### MY Resume (English)  
 
 
 You can check out my Resume [here](https://fast-poet-96b.notion.site/Minwoo-Son-CV-08af486b2e99434cb975315869533b65).
