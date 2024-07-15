@@ -17,7 +17,7 @@ Here are some ideas to get you started:  -->
 #### MY Resume (English)  
 
 
-You can check out my Resume [here](https://fast-poet-96b.notion.site/Minwoo-Son-CV-08af486b2e99434cb975315869533b65).
+*You can check out my Resume* [here](https://fast-poet-96b.notion.site/Minwoo-Son-CV-08af486b2e99434cb975315869533b65).
 
 
 
@@ -32,10 +32,16 @@ You can check out my Resume [here](https://fast-poet-96b.notion.site/Minwoo-Son-
 - SSAFY(Samsung Software Acedemy For Youth) 12th Trainee(Embedded Software Specialization Track)
   
 
+---  
+
+
 
 ![image](https://github.com/MarkSon-42/MarkSon-42/assets/84828274/ae6c26ae-cf26-43a5-96f2-9612f73cc5dd)  
 
 - NIPA-AWS Developer BootCamp (2024.05.20~2024.06.23)
+
+- Courses with AWS Skillbuilder Learning Prgram  
+- AWS Training & Certification Trainer's Mentoring Program
 
 💻 I’m currently learning ...  
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=Black)
