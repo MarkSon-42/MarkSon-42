@@ -27,7 +27,11 @@ You can check out my Resume [here](https://fast-poet-96b.notion.site/Minwoo-Son-
 
 ![image](https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b)  
 
-- SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ )  :  [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ )  
+
+- SSAFY(Samsung Software Acedemy For Youth) 12th Trainee(Embedded Software Specialization Track)
+  
+
 
 ![image](https://github.com/MarkSon-42/MarkSon-42/assets/84828274/ae6c26ae-cf26-43a5-96f2-9612f73cc5dd)  
 
