@@ -25,7 +25,8 @@ Here are some ideas to get you started:  -->
 
 📚 Education  
 
-![image](https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b)  
+<img src="https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b" width="100" height="100">
+
 
 - [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ )  
 
@@ -35,8 +36,7 @@ Here are some ideas to get you started:  -->
 ---  
 
 
-
-![image](https://github.com/MarkSon-42/MarkSon-42/assets/84828274/ae6c26ae-cf26-43a5-96f2-9612f73cc5dd)  
+<img src="https://github.com/MarkSon-42/MarkSon-42/assets/84828274/ae6c26ae-cf26-43a5-96f2-9612f73cc5dd" width="100" height="100">
 
 - NIPA-AWS Developer BootCamp (2024.05.20~2024.06.23)
 
