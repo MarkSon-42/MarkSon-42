@@ -45,6 +45,7 @@ Here are some ideas to get you started:  -->
 
 💻 I’m currently learning ...  
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=Black)
+![](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=purple)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Rust-008B8B?style=for-the-badge&logo=rust&logoColor=darkorange)
@@ -53,6 +54,7 @@ Here are some ideas to get you started:  -->
 ![](https://img.shields.io/badge/AWS_RDS-324253?style=for-the-badge&logo=amazonrds&logoColor=dodgerblue)
 ![](https://img.shields.io/badge/AWS_EKS-324253?style=for-the-badge&logo=amazoneks&logoColor=oragne)
 ![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
+
 
 📶 DataBase  
 
