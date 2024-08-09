@@ -21,7 +21,7 @@ Here are some ideas to get you started:  -->
 
 - [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ )  
 
-- SSAFY(Samsung Software Acedemy For Youth) 12th Trainee(Embedded Software Specialization Track)
+- SSAFY(Samsung Software Acedemy For Youth) 12th Trainee
   
 
 ---  
