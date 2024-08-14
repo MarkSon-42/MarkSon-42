@@ -6,7 +6,7 @@
 Here are some ideas to get you started:  -->
 
 
-<a href="https://www.linkedin.com/in/minwoo-son-b0a75925b/">
+<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9A%B0-%EC%86%90-b0a75925b/">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="120" height="120" alt="LinkedIn">
 </a>  
 
