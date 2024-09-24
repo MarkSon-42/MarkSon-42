@@ -34,17 +34,11 @@ Here are some ideas to get you started:  -->
 
 💻 I’m currently learning ...  
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=Black)
-![](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/AWS_Lambda-324253?style=for-the-badge&logo=awslambda&logoColor=oragne)
-![](https://img.shields.io/badge/AWS_ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
-
 
 📶 DataBase  
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 🐋 DevOps  
 
