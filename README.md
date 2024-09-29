@@ -30,7 +30,6 @@ Here are some ideas to get you started:  -->
 - NIPA-AWS Developer BootCamp (2024.05.20~2024.06.23)
 
 - Courses with AWS Skillbuilder Learning Prgram  
-- AWS Technical Trainer(Korea)'s Class
 
 💻 I’m currently learning ...  
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=Black)
