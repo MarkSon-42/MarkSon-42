@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Minwoo, a cloud technology enthusiast. ☁️
 
 <!--
 **MarkSon-42/MarkSon-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,23 @@
 Here are some ideas to get you started:  -->
 
 
+
+📘 LinkedIn
+
 <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9A%B0-%EC%86%90-b0a75925b/">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="120" height="120" alt="LinkedIn">
 </a>  
+
+---
+
+💻 Job  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ericsson_logo_%282%29.svg/320px-Ericsson_logo_%282%29.svg.png" width="320" height="72">
+
+
+- [Ericsson](https://www.ericssonlg.com/ko) : (2024.11. ~ )  
+
+- Ericsson-LG Enterprise SW Developer (Cloud Platform)
 
 ---
 
@@ -17,9 +31,9 @@ Here are some ideas to get you started:  -->
 <img src="https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b" width="120" height="120">
 
 
-- [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ )  
+- [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ 2024.10)  
 
-- SSAFY(Samsung Software Acedemy For Youth) 12th Trainee
+- SSAFY(Samsung Software Acedemy For Youth) 12th Trainee (Embedded System, Linux Kernel Development, etc,,)
   
 
 ---  
