@@ -1,17 +1,4 @@
-## Hi, I'm Minwoo, a cloud technology enthusiast. ☁️
-
-<!--
-**MarkSon-42/MarkSon-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:  -->
-
-
-
-## 📘 LinkedIn
-
-<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9A%B0-%EC%86%90-b0a75925b/">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="120" height="120" alt="LinkedIn">
-</a>  
+# Hi, I'm Minwoo, a cloud technology enthusiast. ☁️
 
 ---
 
@@ -26,8 +13,7 @@ Here are some ideas to get you started:  -->
 
 ---
 
-## 📚 Education  
-
+## 📚 Education
 <img src="https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b" width="120" height="120">
 
 
