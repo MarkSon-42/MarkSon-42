@@ -7,7 +7,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ericsson_logo_%282%29.svg/320px-Ericsson_logo_%282%29.svg.png" width="320" height="72">
 
 
-- [Ericsson](https://www.ericssonlg.com/ko) : (2024.11. ~ )  
+- [Ericsson-LG](https://www.ericssonlg.com/ko) : (2024.11. ~ )  
 
 - Ericsson-LG Enterprise SW Developer (Cloud Platform)
 
