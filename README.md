@@ -2,12 +2,10 @@
 
 ---
 
-## 💻 Job  
+## 💻 Job  (2024.11 ~ now)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ericsson_logo_%282%29.svg/320px-Ericsson_logo_%282%29.svg.png" width="320" height="72">
+[![Ericsson Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ericsson_logo_%282%29.svg/320px-Ericsson_logo_%282%29.svg.png)](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/south-korea)
 
-
-- [Ericsson-LG](https://www.ericssonlg.com/ko) : (2024.11. ~ )  
 
 - Ericsson-LG Enterprise SW Developer (Cloud Platform)
 
