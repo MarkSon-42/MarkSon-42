@@ -49,8 +49,7 @@
 🔧 Tools
 
 ![](https://img.shields.io/badge/Git-FEFEFE?style=for-the-badge&logo=git&logoColor=tomato)
-![](https://img.shields.io/badge/Confluence-FEFEFE?style=for-the-badge&logo=confluence&logoColor=royalblue)
-![](https://img.shields.io/badge/Jira-FEFEFE?style=for-the-badge&logo=jira&logoColor=royalblue)
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minnow)](https://solved.ac/minnow/)
