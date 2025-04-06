@@ -13,7 +13,7 @@
 ---
 
 ## 📚 Education
-<img src="https://i.namu.wiki/i/-d9W_PYwIz1lwgOmP8IjAezRe7nx0VUIYmbaD39Wh2oMM0ii66L5KyIUXDIQH8HEEijJ8tabWiGsslOL4NS5ww.svg" width="393" height="280">
+<img src="https://i.namu.wiki/i/-d9W_PYwIz1lwgOmP8IjAezRe7nx0VUIYmbaD39Wh2oMM0ii66L5KyIUXDIQH8HEEijJ8tabWiGsslOL4NS5ww.svg" style="width:250px; height:auto;">
 
 
 - [Samsung SW Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ 2024.10)  
