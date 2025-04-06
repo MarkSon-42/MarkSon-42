@@ -4,15 +4,16 @@
 
 ## 💻 Job  (2024.11 ~ now)
 
-[![Ericsson Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ericsson_logo_%282%29.svg/320px-Ericsson_logo_%282%29.svg.png)](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/south-korea)
+<img src="https://grepp-programmers.s3.amazonaws.com/production/company/logo/141/Ericsson-LG_CI_Full_Color_2018_Squre_Copy.png" alt="Ericsson Logo" style="width:200px; height:auto;">
 
 
-- Ericsson-LG Enterprise SW Developer (Cloud Platform)
+
+- SW Developer at Ericsson-LG Enterprise
 
 ---
 
 ## 📚 Education
-<img src="https://github.com/MarkSon-42/MarkSon-42/assets/84828274/c2fb0d2a-b586-4f13-ac16-69e650425d1b" width="120" height="120">
+<img src="https://i.namu.wiki/i/-d9W_PYwIz1lwgOmP8IjAezRe7nx0VUIYmbaD39Wh2oMM0ii66L5KyIUXDIQH8HEEijJ8tabWiGsslOL4NS5ww.svg" width="393" height="280">
 
 
 - [Samsung SW Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ 2024.10)  
@@ -41,15 +42,5 @@
 
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-
-🔧 Tools
-
-![](https://img.shields.io/badge/Git-FEFEFE?style=for-the-badge&logo=git&logoColor=tomato)
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minnow)](https://solved.ac/minnow/)
 
 
