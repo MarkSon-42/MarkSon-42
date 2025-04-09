@@ -4,7 +4,6 @@
 
 ## 💻 Job  (2024.11 ~ now)
 
-<img src="https://grepp-programmers.s3.amazonaws.com/production/company/logo/141/Ericsson-LG_CI_Full_Color_2018_Squre_Copy.png" alt="Ericsson Logo" style="width:200px; height:auto;">
 
 
 
@@ -13,10 +12,8 @@
 ---
 
 ## 📚 Education
-<img src="https://i.namu.wiki/i/-d9W_PYwIz1lwgOmP8IjAezRe7nx0VUIYmbaD39Wh2oMM0ii66L5KyIUXDIQH8HEEijJ8tabWiGsslOL4NS5ww.svg" style="width:250px; height:auto;">
 
-
-- [Samsung SW Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : (2024.07. ~ 2024.10)  
+- Samsung SW Academy : (2024.07. ~ 2024.10)  
 
 - SSAFY(Samsung Software Acedemy For Youth) 12th Trainee (Embedded System, Linux Kernel Development, etc,,)
   
