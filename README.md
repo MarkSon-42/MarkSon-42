@@ -7,7 +7,7 @@
 
 
 
-- SW Developer at Ericsson-LG Enterprise
+- SW Developer at Ericsson-LG Enterprise (Cloud Platform)
 
 ---
 
@@ -20,8 +20,6 @@
 
 ---  
 
-
-<img src="https://github.com/MarkSon-42/MarkSon-42/assets/84828274/ae6c26ae-cf26-43a5-96f2-9612f73cc5dd" width="120" height="120">
 
 - NIPA-AWS Developer BootCamp (2024.05.20~2024.06.23)
 
